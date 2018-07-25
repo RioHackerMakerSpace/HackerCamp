@@ -1,4 +1,4 @@
-# <p align="center">HackerMakerRoots.</p>
+# HackerMakerRoots.
 Repositório do Projeto para montagem de um evento/acampamento de disseminação de tecnologias numa área rural  
 
 <p align="justify">No dia 7 de Setembro comemoramos o dia da independência do Brasil.</p>
