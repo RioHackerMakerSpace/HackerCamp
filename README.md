@@ -1,4 +1,4 @@
-# HackerMakerRoots.
+# HackerCamp
 Repositório do Projeto para montagem de um evento/acampamento de disseminação de tecnologias numa área rural  
 
 <p align="justify">No dia 12 de Outubro comemoramos o dia das crianças.</p>
