@@ -1,8 +1,14 @@
-Cores:
+Arquivo "layout_home.png": acho que a home pode ficar assim. Se conseguirmos incluir links diretos para insrições, programação, contato e como chegar seria ótimo!
+
+Arquivo "fundo_home": já com fundo transparente para inserção no site.
+
+Arquivo "site_hackcamp": arquivo original. As fontes estão na pasta "artwork".
+
+Cores que podemos usar no site:
 roxoRGB(114, 38, 245)
 amareloRGB(237, 255, 30)
 preto 
 branco
 
-Creditar fonte dos ícones:
-ícones criados por ben davis e dinosoft labs para the noun project 
+Creditar fonte dos ícones em algum lugar:
+"ícones criados por ben davis e dinosoft labs para the noun project" 
